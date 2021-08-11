@@ -1,2 +1,2 @@
-# fisrt_repo
+# first_repo
 my first repository
